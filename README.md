@@ -56,10 +56,13 @@ Energy-Consumption-Analytics/
 └── README.md
 ```
 
-## Dashboard
-The Power BI dashboard presents household energy consumption trends and key performance indicators.
+## Power BI Dashboard
 
-Dashboard screenshots are available in the `screenshot` folder.
+### Dashboard - Page 1
+![Energy Dashboard Page 1](screenshot/Page_1.png)
+
+### Dashboard - Page 2
+![Energy Dashboard Page 2](screenshot/Page_2.png)
 
 ## How to Run
 1. Clone this repository.
